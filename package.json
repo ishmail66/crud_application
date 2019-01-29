@@ -1,0 +1,32 @@
+{
+  "name": "crud-application",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0"
+  },
+  "description": "example of creating an application that can create, read, update and delete.",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishmail66/crud_application.git"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "ishmail66",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishmail66/crud_application/issues"
+  },
+  "homepage": "https://github.com/ishmail66/crud_application#readme"
+}
